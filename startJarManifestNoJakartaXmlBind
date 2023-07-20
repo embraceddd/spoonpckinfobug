@@ -1,0 +1,1 @@
+java "-XX:+ShowCodeDetailsInExceptionMessages" "-cp" "classpathfile\cp_no_xml_bind.jar" ru.embraceddx.spoonpckinfobug.SpoonpckinfobugApplication
