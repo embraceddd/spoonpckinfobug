@@ -1,0 +1,1 @@
+java "@classpathfile\cp_with_xml_bind.argfile" ru.embraceddx.spoonpckinfobug.SpoonpckinfobugApplication

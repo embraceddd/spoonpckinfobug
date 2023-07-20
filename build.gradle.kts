@@ -16,8 +16,8 @@ repositories {
 }
 
 dependencies {
-    //implementation("jakarta.xml.bind:jakarta.xml.bind-api:2.3.2")
-    implementation("org.springframework.boot:spring-boot-starter:2.6.7")
+    implementation("jakarta.xml.bind:jakarta.xml.bind-api:2.3.2")
+    implementation("org.springframework.boot:spring-boot-starter-web:2.6.7")
     implementation("fr.inria.gforge.spoon:spoon-core:10.4.0")
 }
 

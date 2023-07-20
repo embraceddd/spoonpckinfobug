@@ -11,6 +11,7 @@ public class SpoonpckinfobugApplication {
         SpoonPreparator spoonPreparator = new SpoonPreparator();
         String sourcePath = "src/main/resources/buggedProject/src/main/java";
         spoonPreparator.buildModel(sourcePath);
+
     }
 
 }
